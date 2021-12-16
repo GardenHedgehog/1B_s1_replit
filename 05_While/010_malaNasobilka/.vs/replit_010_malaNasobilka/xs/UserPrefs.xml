@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{0D30E878-5650-4837-8654-25D552150ECF}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="replit_010_malaNasobilka/Program.cs">
+    <Files>
+      <File FileName="replit_010_malaNasobilka/Program.cs" Line="12" Column="25" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="replit_010_malaNasobilka" expanded="True">
+            <Node name="replit_010_malaNasobilka" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.replit__010__malaNasobilka PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

@@ -1,0 +1,15 @@
+/Users/vladimirslavicek/Documents/GitHub/1B_s1_replit/05_While/150_minimumZeCtvrtych/minimumZeCtvrtych/minimumZeCtvrtych/bin/Debug/net5.0/minimumZeCtvrtych.deps.json
+/Users/vladimirslavicek/Documents/GitHub/1B_s1_replit/05_While/150_minimumZeCtvrtych/minimumZeCtvrtych/minimumZeCtvrtych/bin/Debug/net5.0/minimumZeCtvrtych.runtimeconfig.json
+/Users/vladimirslavicek/Documents/GitHub/1B_s1_replit/05_While/150_minimumZeCtvrtych/minimumZeCtvrtych/minimumZeCtvrtych/bin/Debug/net5.0/minimumZeCtvrtych.runtimeconfig.dev.json
+/Users/vladimirslavicek/Documents/GitHub/1B_s1_replit/05_While/150_minimumZeCtvrtych/minimumZeCtvrtych/minimumZeCtvrtych/bin/Debug/net5.0/minimumZeCtvrtych.dll
+/Users/vladimirslavicek/Documents/GitHub/1B_s1_replit/05_While/150_minimumZeCtvrtych/minimumZeCtvrtych/minimumZeCtvrtych/bin/Debug/net5.0/ref/minimumZeCtvrtych.dll
+/Users/vladimirslavicek/Documents/GitHub/1B_s1_replit/05_While/150_minimumZeCtvrtych/minimumZeCtvrtych/minimumZeCtvrtych/bin/Debug/net5.0/minimumZeCtvrtych.pdb
+/Users/vladimirslavicek/Documents/GitHub/1B_s1_replit/05_While/150_minimumZeCtvrtych/minimumZeCtvrtych/minimumZeCtvrtych/obj/Debug/net5.0/minimumZeCtvrtych.csproj.AssemblyReference.cache
+/Users/vladimirslavicek/Documents/GitHub/1B_s1_replit/05_While/150_minimumZeCtvrtych/minimumZeCtvrtych/minimumZeCtvrtych/obj/Debug/net5.0/minimumZeCtvrtych.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vladimirslavicek/Documents/GitHub/1B_s1_replit/05_While/150_minimumZeCtvrtych/minimumZeCtvrtych/minimumZeCtvrtych/obj/Debug/net5.0/minimumZeCtvrtych.AssemblyInfoInputs.cache
+/Users/vladimirslavicek/Documents/GitHub/1B_s1_replit/05_While/150_minimumZeCtvrtych/minimumZeCtvrtych/minimumZeCtvrtych/obj/Debug/net5.0/minimumZeCtvrtych.AssemblyInfo.cs
+/Users/vladimirslavicek/Documents/GitHub/1B_s1_replit/05_While/150_minimumZeCtvrtych/minimumZeCtvrtych/minimumZeCtvrtych/obj/Debug/net5.0/minimumZeCtvrtych.csproj.CoreCompileInputs.cache
+/Users/vladimirslavicek/Documents/GitHub/1B_s1_replit/05_While/150_minimumZeCtvrtych/minimumZeCtvrtych/minimumZeCtvrtych/obj/Debug/net5.0/minimumZeCtvrtych.dll
+/Users/vladimirslavicek/Documents/GitHub/1B_s1_replit/05_While/150_minimumZeCtvrtych/minimumZeCtvrtych/minimumZeCtvrtych/obj/Debug/net5.0/ref/minimumZeCtvrtych.dll
+/Users/vladimirslavicek/Documents/GitHub/1B_s1_replit/05_While/150_minimumZeCtvrtych/minimumZeCtvrtych/minimumZeCtvrtych/obj/Debug/net5.0/minimumZeCtvrtych.pdb
+/Users/vladimirslavicek/Documents/GitHub/1B_s1_replit/05_While/150_minimumZeCtvrtych/minimumZeCtvrtych/minimumZeCtvrtych/obj/Debug/net5.0/minimumZeCtvrtych.genruntimeconfig.cache

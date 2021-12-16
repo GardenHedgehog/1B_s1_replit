@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{B2A60DF0-E2C0-4982-92F5-78620A4E4A89}|Default">
+  <MonoDevelop.Ide.ItemProperties.replit__080__soucetZadanych PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="replit_080_soucetZadanych/Program.cs">
+    <Files>
+      <File FileName="replit_080_soucetZadanych/Program.cs" Line="15" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="replit_080_soucetZadanych" expanded="True">
+            <Node name="replit_080_soucetZadanych" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

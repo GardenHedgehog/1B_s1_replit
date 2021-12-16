@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{1DD47F12-A600-4732-918E-1EA83ECFFC88}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="replit_020_nactiZaporne/Program.cs">
+    <Files>
+      <File FileName="replit_020_nactiZaporne/Program.cs" Line="8" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="replit_020_nactiZaporne" expanded="True">
+            <Node name="replit_020_nactiZaporne" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.replit__020__nactiZaporne PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

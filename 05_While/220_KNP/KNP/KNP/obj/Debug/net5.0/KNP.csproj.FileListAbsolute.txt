@@ -1,0 +1,15 @@
+/Users/vladimirslavicek/Documents/GitHub/1B_s1_replit/05_While/220_KNP/KNP/KNP/bin/Debug/net5.0/KNP.deps.json
+/Users/vladimirslavicek/Documents/GitHub/1B_s1_replit/05_While/220_KNP/KNP/KNP/bin/Debug/net5.0/KNP.runtimeconfig.json
+/Users/vladimirslavicek/Documents/GitHub/1B_s1_replit/05_While/220_KNP/KNP/KNP/bin/Debug/net5.0/KNP.runtimeconfig.dev.json
+/Users/vladimirslavicek/Documents/GitHub/1B_s1_replit/05_While/220_KNP/KNP/KNP/bin/Debug/net5.0/KNP.dll
+/Users/vladimirslavicek/Documents/GitHub/1B_s1_replit/05_While/220_KNP/KNP/KNP/bin/Debug/net5.0/ref/KNP.dll
+/Users/vladimirslavicek/Documents/GitHub/1B_s1_replit/05_While/220_KNP/KNP/KNP/bin/Debug/net5.0/KNP.pdb
+/Users/vladimirslavicek/Documents/GitHub/1B_s1_replit/05_While/220_KNP/KNP/KNP/obj/Debug/net5.0/KNP.csproj.AssemblyReference.cache
+/Users/vladimirslavicek/Documents/GitHub/1B_s1_replit/05_While/220_KNP/KNP/KNP/obj/Debug/net5.0/KNP.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vladimirslavicek/Documents/GitHub/1B_s1_replit/05_While/220_KNP/KNP/KNP/obj/Debug/net5.0/KNP.AssemblyInfoInputs.cache
+/Users/vladimirslavicek/Documents/GitHub/1B_s1_replit/05_While/220_KNP/KNP/KNP/obj/Debug/net5.0/KNP.AssemblyInfo.cs
+/Users/vladimirslavicek/Documents/GitHub/1B_s1_replit/05_While/220_KNP/KNP/KNP/obj/Debug/net5.0/KNP.csproj.CoreCompileInputs.cache
+/Users/vladimirslavicek/Documents/GitHub/1B_s1_replit/05_While/220_KNP/KNP/KNP/obj/Debug/net5.0/KNP.dll
+/Users/vladimirslavicek/Documents/GitHub/1B_s1_replit/05_While/220_KNP/KNP/KNP/obj/Debug/net5.0/ref/KNP.dll
+/Users/vladimirslavicek/Documents/GitHub/1B_s1_replit/05_While/220_KNP/KNP/KNP/obj/Debug/net5.0/KNP.pdb
+/Users/vladimirslavicek/Documents/GitHub/1B_s1_replit/05_While/220_KNP/KNP/KNP/obj/Debug/net5.0/KNP.genruntimeconfig.cache

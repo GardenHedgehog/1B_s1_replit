@@ -1,0 +1,15 @@
+/Users/vladimirslavicek/Documents/GitHub/1B_s1_replit/06_For/f120-bruh/f120-bruh/bin/Debug/net5.0/f120-bruh.deps.json
+/Users/vladimirslavicek/Documents/GitHub/1B_s1_replit/06_For/f120-bruh/f120-bruh/bin/Debug/net5.0/f120-bruh.runtimeconfig.json
+/Users/vladimirslavicek/Documents/GitHub/1B_s1_replit/06_For/f120-bruh/f120-bruh/bin/Debug/net5.0/f120-bruh.runtimeconfig.dev.json
+/Users/vladimirslavicek/Documents/GitHub/1B_s1_replit/06_For/f120-bruh/f120-bruh/bin/Debug/net5.0/f120-bruh.dll
+/Users/vladimirslavicek/Documents/GitHub/1B_s1_replit/06_For/f120-bruh/f120-bruh/bin/Debug/net5.0/ref/f120-bruh.dll
+/Users/vladimirslavicek/Documents/GitHub/1B_s1_replit/06_For/f120-bruh/f120-bruh/bin/Debug/net5.0/f120-bruh.pdb
+/Users/vladimirslavicek/Documents/GitHub/1B_s1_replit/06_For/f120-bruh/f120-bruh/obj/Debug/net5.0/f120-bruh.csproj.AssemblyReference.cache
+/Users/vladimirslavicek/Documents/GitHub/1B_s1_replit/06_For/f120-bruh/f120-bruh/obj/Debug/net5.0/f120-bruh.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vladimirslavicek/Documents/GitHub/1B_s1_replit/06_For/f120-bruh/f120-bruh/obj/Debug/net5.0/f120-bruh.AssemblyInfoInputs.cache
+/Users/vladimirslavicek/Documents/GitHub/1B_s1_replit/06_For/f120-bruh/f120-bruh/obj/Debug/net5.0/f120-bruh.AssemblyInfo.cs
+/Users/vladimirslavicek/Documents/GitHub/1B_s1_replit/06_For/f120-bruh/f120-bruh/obj/Debug/net5.0/f120-bruh.csproj.CoreCompileInputs.cache
+/Users/vladimirslavicek/Documents/GitHub/1B_s1_replit/06_For/f120-bruh/f120-bruh/obj/Debug/net5.0/f120-bruh.dll
+/Users/vladimirslavicek/Documents/GitHub/1B_s1_replit/06_For/f120-bruh/f120-bruh/obj/Debug/net5.0/ref/f120-bruh.dll
+/Users/vladimirslavicek/Documents/GitHub/1B_s1_replit/06_For/f120-bruh/f120-bruh/obj/Debug/net5.0/f120-bruh.pdb
+/Users/vladimirslavicek/Documents/GitHub/1B_s1_replit/06_For/f120-bruh/f120-bruh/obj/Debug/net5.0/f120-bruh.genruntimeconfig.cache

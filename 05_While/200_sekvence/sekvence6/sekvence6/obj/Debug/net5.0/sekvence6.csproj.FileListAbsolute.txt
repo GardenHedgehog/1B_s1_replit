@@ -1,0 +1,15 @@
+/Users/vladimirslavicek/Documents/GitHub/1B_s1_replit/05_While/200_sekvence/sekvence6/sekvence6/bin/Debug/net5.0/sekvence6.deps.json
+/Users/vladimirslavicek/Documents/GitHub/1B_s1_replit/05_While/200_sekvence/sekvence6/sekvence6/bin/Debug/net5.0/sekvence6.runtimeconfig.json
+/Users/vladimirslavicek/Documents/GitHub/1B_s1_replit/05_While/200_sekvence/sekvence6/sekvence6/bin/Debug/net5.0/sekvence6.runtimeconfig.dev.json
+/Users/vladimirslavicek/Documents/GitHub/1B_s1_replit/05_While/200_sekvence/sekvence6/sekvence6/bin/Debug/net5.0/sekvence6.dll
+/Users/vladimirslavicek/Documents/GitHub/1B_s1_replit/05_While/200_sekvence/sekvence6/sekvence6/bin/Debug/net5.0/ref/sekvence6.dll
+/Users/vladimirslavicek/Documents/GitHub/1B_s1_replit/05_While/200_sekvence/sekvence6/sekvence6/bin/Debug/net5.0/sekvence6.pdb
+/Users/vladimirslavicek/Documents/GitHub/1B_s1_replit/05_While/200_sekvence/sekvence6/sekvence6/obj/Debug/net5.0/sekvence6.csproj.AssemblyReference.cache
+/Users/vladimirslavicek/Documents/GitHub/1B_s1_replit/05_While/200_sekvence/sekvence6/sekvence6/obj/Debug/net5.0/sekvence6.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vladimirslavicek/Documents/GitHub/1B_s1_replit/05_While/200_sekvence/sekvence6/sekvence6/obj/Debug/net5.0/sekvence6.AssemblyInfoInputs.cache
+/Users/vladimirslavicek/Documents/GitHub/1B_s1_replit/05_While/200_sekvence/sekvence6/sekvence6/obj/Debug/net5.0/sekvence6.AssemblyInfo.cs
+/Users/vladimirslavicek/Documents/GitHub/1B_s1_replit/05_While/200_sekvence/sekvence6/sekvence6/obj/Debug/net5.0/sekvence6.csproj.CoreCompileInputs.cache
+/Users/vladimirslavicek/Documents/GitHub/1B_s1_replit/05_While/200_sekvence/sekvence6/sekvence6/obj/Debug/net5.0/sekvence6.dll
+/Users/vladimirslavicek/Documents/GitHub/1B_s1_replit/05_While/200_sekvence/sekvence6/sekvence6/obj/Debug/net5.0/ref/sekvence6.dll
+/Users/vladimirslavicek/Documents/GitHub/1B_s1_replit/05_While/200_sekvence/sekvence6/sekvence6/obj/Debug/net5.0/sekvence6.pdb
+/Users/vladimirslavicek/Documents/GitHub/1B_s1_replit/05_While/200_sekvence/sekvence6/sekvence6/obj/Debug/net5.0/sekvence6.genruntimeconfig.cache

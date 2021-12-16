@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "f030-před pikolou", "f030-před pikolou\f030-před pikolou.csproj", "{1078958B-5DC9-478A-919D-16301DD59881}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1078958B-5DC9-478A-919D-16301DD59881}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1078958B-5DC9-478A-919D-16301DD59881}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1078958B-5DC9-478A-919D-16301DD59881}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1078958B-5DC9-478A-919D-16301DD59881}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

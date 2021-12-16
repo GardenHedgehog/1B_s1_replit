@@ -1,0 +1,15 @@
+/Users/vladimirslavicek/Documents/GitHub/1B_s1_replit/05_While/210_hraNim/NIM/NIM/bin/Debug/net5.0/NIM.deps.json
+/Users/vladimirslavicek/Documents/GitHub/1B_s1_replit/05_While/210_hraNim/NIM/NIM/bin/Debug/net5.0/NIM.runtimeconfig.json
+/Users/vladimirslavicek/Documents/GitHub/1B_s1_replit/05_While/210_hraNim/NIM/NIM/bin/Debug/net5.0/NIM.runtimeconfig.dev.json
+/Users/vladimirslavicek/Documents/GitHub/1B_s1_replit/05_While/210_hraNim/NIM/NIM/bin/Debug/net5.0/NIM.dll
+/Users/vladimirslavicek/Documents/GitHub/1B_s1_replit/05_While/210_hraNim/NIM/NIM/bin/Debug/net5.0/ref/NIM.dll
+/Users/vladimirslavicek/Documents/GitHub/1B_s1_replit/05_While/210_hraNim/NIM/NIM/bin/Debug/net5.0/NIM.pdb
+/Users/vladimirslavicek/Documents/GitHub/1B_s1_replit/05_While/210_hraNim/NIM/NIM/obj/Debug/net5.0/NIM.csproj.AssemblyReference.cache
+/Users/vladimirslavicek/Documents/GitHub/1B_s1_replit/05_While/210_hraNim/NIM/NIM/obj/Debug/net5.0/NIM.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vladimirslavicek/Documents/GitHub/1B_s1_replit/05_While/210_hraNim/NIM/NIM/obj/Debug/net5.0/NIM.AssemblyInfoInputs.cache
+/Users/vladimirslavicek/Documents/GitHub/1B_s1_replit/05_While/210_hraNim/NIM/NIM/obj/Debug/net5.0/NIM.AssemblyInfo.cs
+/Users/vladimirslavicek/Documents/GitHub/1B_s1_replit/05_While/210_hraNim/NIM/NIM/obj/Debug/net5.0/NIM.csproj.CoreCompileInputs.cache
+/Users/vladimirslavicek/Documents/GitHub/1B_s1_replit/05_While/210_hraNim/NIM/NIM/obj/Debug/net5.0/NIM.dll
+/Users/vladimirslavicek/Documents/GitHub/1B_s1_replit/05_While/210_hraNim/NIM/NIM/obj/Debug/net5.0/ref/NIM.dll
+/Users/vladimirslavicek/Documents/GitHub/1B_s1_replit/05_While/210_hraNim/NIM/NIM/obj/Debug/net5.0/NIM.pdb
+/Users/vladimirslavicek/Documents/GitHub/1B_s1_replit/05_While/210_hraNim/NIM/NIM/obj/Debug/net5.0/NIM.genruntimeconfig.cache

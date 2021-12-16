@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "f080-sečti 10 čísel/1.0.0": {
+        "runtime": {
+          "f080-sečti 10 čísel.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "f080-sečti 10 čísel/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

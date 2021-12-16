@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "f110-sečti N čísel", "f110-sečti N čísel\f110-sečti N čísel.csproj", "{B141924B-5A19-467C-90A2-06214E53D0D1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B141924B-5A19-467C-90A2-06214E53D0D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B141924B-5A19-467C-90A2-06214E53D0D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B141924B-5A19-467C-90A2-06214E53D0D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B141924B-5A19-467C-90A2-06214E53D0D1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

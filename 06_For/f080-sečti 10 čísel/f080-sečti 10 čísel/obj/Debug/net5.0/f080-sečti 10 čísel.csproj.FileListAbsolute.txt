@@ -1,0 +1,15 @@
+/Users/vladimirslavicek/Documents/GitHub/1B_s1_replit/06_For/f080-sečti 10 čísel/f080-sečti 10 čísel/bin/Debug/net5.0/f080-sečti 10 čísel.deps.json
+/Users/vladimirslavicek/Documents/GitHub/1B_s1_replit/06_For/f080-sečti 10 čísel/f080-sečti 10 čísel/bin/Debug/net5.0/f080-sečti 10 čísel.runtimeconfig.json
+/Users/vladimirslavicek/Documents/GitHub/1B_s1_replit/06_For/f080-sečti 10 čísel/f080-sečti 10 čísel/bin/Debug/net5.0/f080-sečti 10 čísel.runtimeconfig.dev.json
+/Users/vladimirslavicek/Documents/GitHub/1B_s1_replit/06_For/f080-sečti 10 čísel/f080-sečti 10 čísel/bin/Debug/net5.0/f080-sečti 10 čísel.dll
+/Users/vladimirslavicek/Documents/GitHub/1B_s1_replit/06_For/f080-sečti 10 čísel/f080-sečti 10 čísel/bin/Debug/net5.0/ref/f080-sečti 10 čísel.dll
+/Users/vladimirslavicek/Documents/GitHub/1B_s1_replit/06_For/f080-sečti 10 čísel/f080-sečti 10 čísel/bin/Debug/net5.0/f080-sečti 10 čísel.pdb
+/Users/vladimirslavicek/Documents/GitHub/1B_s1_replit/06_For/f080-sečti 10 čísel/f080-sečti 10 čísel/obj/Debug/net5.0/f080-sečti 10 čísel.csproj.AssemblyReference.cache
+/Users/vladimirslavicek/Documents/GitHub/1B_s1_replit/06_For/f080-sečti 10 čísel/f080-sečti 10 čísel/obj/Debug/net5.0/f080-sečti 10 čísel.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vladimirslavicek/Documents/GitHub/1B_s1_replit/06_For/f080-sečti 10 čísel/f080-sečti 10 čísel/obj/Debug/net5.0/f080-sečti 10 čísel.AssemblyInfoInputs.cache
+/Users/vladimirslavicek/Documents/GitHub/1B_s1_replit/06_For/f080-sečti 10 čísel/f080-sečti 10 čísel/obj/Debug/net5.0/f080-sečti 10 čísel.AssemblyInfo.cs
+/Users/vladimirslavicek/Documents/GitHub/1B_s1_replit/06_For/f080-sečti 10 čísel/f080-sečti 10 čísel/obj/Debug/net5.0/f080-sečti 10 čísel.csproj.CoreCompileInputs.cache
+/Users/vladimirslavicek/Documents/GitHub/1B_s1_replit/06_For/f080-sečti 10 čísel/f080-sečti 10 čísel/obj/Debug/net5.0/f080-sečti 10 čísel.dll
+/Users/vladimirslavicek/Documents/GitHub/1B_s1_replit/06_For/f080-sečti 10 čísel/f080-sečti 10 čísel/obj/Debug/net5.0/ref/f080-sečti 10 čísel.dll
+/Users/vladimirslavicek/Documents/GitHub/1B_s1_replit/06_For/f080-sečti 10 čísel/f080-sečti 10 čísel/obj/Debug/net5.0/f080-sečti 10 čísel.pdb
+/Users/vladimirslavicek/Documents/GitHub/1B_s1_replit/06_For/f080-sečti 10 čísel/f080-sečti 10 čísel/obj/Debug/net5.0/f080-sečti 10 čísel.genruntimeconfig.cache

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "replit_100_soucinZadanych/1.0.0": {
+        "runtime": {
+          "replit_100_soucinZadanych.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "replit_100_soucinZadanych/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

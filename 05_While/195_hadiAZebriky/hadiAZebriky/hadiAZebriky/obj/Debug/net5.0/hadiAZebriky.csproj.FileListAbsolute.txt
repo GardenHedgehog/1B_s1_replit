@@ -1,0 +1,15 @@
+/Users/vladimirslavicek/Documents/GitHub/1B_s1_replit/05_While/195_hadiAZebriky/hadiAZebriky/hadiAZebriky/bin/Debug/net5.0/hadiAZebriky.deps.json
+/Users/vladimirslavicek/Documents/GitHub/1B_s1_replit/05_While/195_hadiAZebriky/hadiAZebriky/hadiAZebriky/bin/Debug/net5.0/hadiAZebriky.runtimeconfig.json
+/Users/vladimirslavicek/Documents/GitHub/1B_s1_replit/05_While/195_hadiAZebriky/hadiAZebriky/hadiAZebriky/bin/Debug/net5.0/hadiAZebriky.runtimeconfig.dev.json
+/Users/vladimirslavicek/Documents/GitHub/1B_s1_replit/05_While/195_hadiAZebriky/hadiAZebriky/hadiAZebriky/bin/Debug/net5.0/hadiAZebriky.dll
+/Users/vladimirslavicek/Documents/GitHub/1B_s1_replit/05_While/195_hadiAZebriky/hadiAZebriky/hadiAZebriky/bin/Debug/net5.0/ref/hadiAZebriky.dll
+/Users/vladimirslavicek/Documents/GitHub/1B_s1_replit/05_While/195_hadiAZebriky/hadiAZebriky/hadiAZebriky/bin/Debug/net5.0/hadiAZebriky.pdb
+/Users/vladimirslavicek/Documents/GitHub/1B_s1_replit/05_While/195_hadiAZebriky/hadiAZebriky/hadiAZebriky/obj/Debug/net5.0/hadiAZebriky.csproj.AssemblyReference.cache
+/Users/vladimirslavicek/Documents/GitHub/1B_s1_replit/05_While/195_hadiAZebriky/hadiAZebriky/hadiAZebriky/obj/Debug/net5.0/hadiAZebriky.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vladimirslavicek/Documents/GitHub/1B_s1_replit/05_While/195_hadiAZebriky/hadiAZebriky/hadiAZebriky/obj/Debug/net5.0/hadiAZebriky.AssemblyInfoInputs.cache
+/Users/vladimirslavicek/Documents/GitHub/1B_s1_replit/05_While/195_hadiAZebriky/hadiAZebriky/hadiAZebriky/obj/Debug/net5.0/hadiAZebriky.AssemblyInfo.cs
+/Users/vladimirslavicek/Documents/GitHub/1B_s1_replit/05_While/195_hadiAZebriky/hadiAZebriky/hadiAZebriky/obj/Debug/net5.0/hadiAZebriky.csproj.CoreCompileInputs.cache
+/Users/vladimirslavicek/Documents/GitHub/1B_s1_replit/05_While/195_hadiAZebriky/hadiAZebriky/hadiAZebriky/obj/Debug/net5.0/hadiAZebriky.dll
+/Users/vladimirslavicek/Documents/GitHub/1B_s1_replit/05_While/195_hadiAZebriky/hadiAZebriky/hadiAZebriky/obj/Debug/net5.0/ref/hadiAZebriky.dll
+/Users/vladimirslavicek/Documents/GitHub/1B_s1_replit/05_While/195_hadiAZebriky/hadiAZebriky/hadiAZebriky/obj/Debug/net5.0/hadiAZebriky.pdb
+/Users/vladimirslavicek/Documents/GitHub/1B_s1_replit/05_While/195_hadiAZebriky/hadiAZebriky/hadiAZebriky/obj/Debug/net5.0/hadiAZebriky.genruntimeconfig.cache

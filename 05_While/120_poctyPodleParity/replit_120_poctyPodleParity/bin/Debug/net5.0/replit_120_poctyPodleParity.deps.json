@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "replit_120_poctyPodleParity/1.0.0": {
+        "runtime": {
+          "replit_120_poctyPodleParity.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "replit_120_poctyPodleParity/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

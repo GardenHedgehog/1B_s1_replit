@@ -1,0 +1,15 @@
+/Users/vladimirslavicek/Documents/GitHub/1B_s1_replit/05_While/130_poctyPodleVelikosti/poctyPodleVelikosti/poctyPodleVelikosti/bin/Debug/net5.0/poctyPodleVelikosti.deps.json
+/Users/vladimirslavicek/Documents/GitHub/1B_s1_replit/05_While/130_poctyPodleVelikosti/poctyPodleVelikosti/poctyPodleVelikosti/bin/Debug/net5.0/poctyPodleVelikosti.runtimeconfig.json
+/Users/vladimirslavicek/Documents/GitHub/1B_s1_replit/05_While/130_poctyPodleVelikosti/poctyPodleVelikosti/poctyPodleVelikosti/bin/Debug/net5.0/poctyPodleVelikosti.runtimeconfig.dev.json
+/Users/vladimirslavicek/Documents/GitHub/1B_s1_replit/05_While/130_poctyPodleVelikosti/poctyPodleVelikosti/poctyPodleVelikosti/bin/Debug/net5.0/poctyPodleVelikosti.dll
+/Users/vladimirslavicek/Documents/GitHub/1B_s1_replit/05_While/130_poctyPodleVelikosti/poctyPodleVelikosti/poctyPodleVelikosti/bin/Debug/net5.0/ref/poctyPodleVelikosti.dll
+/Users/vladimirslavicek/Documents/GitHub/1B_s1_replit/05_While/130_poctyPodleVelikosti/poctyPodleVelikosti/poctyPodleVelikosti/bin/Debug/net5.0/poctyPodleVelikosti.pdb
+/Users/vladimirslavicek/Documents/GitHub/1B_s1_replit/05_While/130_poctyPodleVelikosti/poctyPodleVelikosti/poctyPodleVelikosti/obj/Debug/net5.0/poctyPodleVelikosti.csproj.AssemblyReference.cache
+/Users/vladimirslavicek/Documents/GitHub/1B_s1_replit/05_While/130_poctyPodleVelikosti/poctyPodleVelikosti/poctyPodleVelikosti/obj/Debug/net5.0/poctyPodleVelikosti.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vladimirslavicek/Documents/GitHub/1B_s1_replit/05_While/130_poctyPodleVelikosti/poctyPodleVelikosti/poctyPodleVelikosti/obj/Debug/net5.0/poctyPodleVelikosti.AssemblyInfoInputs.cache
+/Users/vladimirslavicek/Documents/GitHub/1B_s1_replit/05_While/130_poctyPodleVelikosti/poctyPodleVelikosti/poctyPodleVelikosti/obj/Debug/net5.0/poctyPodleVelikosti.AssemblyInfo.cs
+/Users/vladimirslavicek/Documents/GitHub/1B_s1_replit/05_While/130_poctyPodleVelikosti/poctyPodleVelikosti/poctyPodleVelikosti/obj/Debug/net5.0/poctyPodleVelikosti.csproj.CoreCompileInputs.cache
+/Users/vladimirslavicek/Documents/GitHub/1B_s1_replit/05_While/130_poctyPodleVelikosti/poctyPodleVelikosti/poctyPodleVelikosti/obj/Debug/net5.0/poctyPodleVelikosti.dll
+/Users/vladimirslavicek/Documents/GitHub/1B_s1_replit/05_While/130_poctyPodleVelikosti/poctyPodleVelikosti/poctyPodleVelikosti/obj/Debug/net5.0/ref/poctyPodleVelikosti.dll
+/Users/vladimirslavicek/Documents/GitHub/1B_s1_replit/05_While/130_poctyPodleVelikosti/poctyPodleVelikosti/poctyPodleVelikosti/obj/Debug/net5.0/poctyPodleVelikosti.pdb
+/Users/vladimirslavicek/Documents/GitHub/1B_s1_replit/05_While/130_poctyPodleVelikosti/poctyPodleVelikosti/poctyPodleVelikosti/obj/Debug/net5.0/poctyPodleVelikosti.genruntimeconfig.cache

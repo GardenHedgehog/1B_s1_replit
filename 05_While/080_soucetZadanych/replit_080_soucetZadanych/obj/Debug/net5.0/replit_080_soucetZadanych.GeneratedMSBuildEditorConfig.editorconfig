@@ -1,0 +1,10 @@
+is_global = true
+build_property.TargetFramework = net5.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.PublishSingleFile = 
+build_property.IncludeAllContentForSelfExtract = 
+build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
+build_property.RootNamespace = replit_080_soucetZadanych
+build_property.ProjectDir = /Users/vladimirslavicek/OneDrive - DELTA - SŠIE, s.r.o/Programování/replit_080_soucetZadanych/replit_080_soucetZadanych/

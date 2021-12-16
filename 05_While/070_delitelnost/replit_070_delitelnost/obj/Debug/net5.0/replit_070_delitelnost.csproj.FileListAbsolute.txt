@@ -1,0 +1,15 @@
+/Users/vladimirslavicek/OneDrive - DELTA - SŠIE, s.r.o/Programování/replit_070_delitelnost/replit_070_delitelnost/bin/Debug/net5.0/replit_070_delitelnost.deps.json
+/Users/vladimirslavicek/OneDrive - DELTA - SŠIE, s.r.o/Programování/replit_070_delitelnost/replit_070_delitelnost/bin/Debug/net5.0/replit_070_delitelnost.runtimeconfig.json
+/Users/vladimirslavicek/OneDrive - DELTA - SŠIE, s.r.o/Programování/replit_070_delitelnost/replit_070_delitelnost/bin/Debug/net5.0/replit_070_delitelnost.runtimeconfig.dev.json
+/Users/vladimirslavicek/OneDrive - DELTA - SŠIE, s.r.o/Programování/replit_070_delitelnost/replit_070_delitelnost/bin/Debug/net5.0/replit_070_delitelnost.dll
+/Users/vladimirslavicek/OneDrive - DELTA - SŠIE, s.r.o/Programování/replit_070_delitelnost/replit_070_delitelnost/bin/Debug/net5.0/ref/replit_070_delitelnost.dll
+/Users/vladimirslavicek/OneDrive - DELTA - SŠIE, s.r.o/Programování/replit_070_delitelnost/replit_070_delitelnost/bin/Debug/net5.0/replit_070_delitelnost.pdb
+/Users/vladimirslavicek/OneDrive - DELTA - SŠIE, s.r.o/Programování/replit_070_delitelnost/replit_070_delitelnost/obj/Debug/net5.0/replit_070_delitelnost.csproj.AssemblyReference.cache
+/Users/vladimirslavicek/OneDrive - DELTA - SŠIE, s.r.o/Programování/replit_070_delitelnost/replit_070_delitelnost/obj/Debug/net5.0/replit_070_delitelnost.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vladimirslavicek/OneDrive - DELTA - SŠIE, s.r.o/Programování/replit_070_delitelnost/replit_070_delitelnost/obj/Debug/net5.0/replit_070_delitelnost.AssemblyInfoInputs.cache
+/Users/vladimirslavicek/OneDrive - DELTA - SŠIE, s.r.o/Programování/replit_070_delitelnost/replit_070_delitelnost/obj/Debug/net5.0/replit_070_delitelnost.AssemblyInfo.cs
+/Users/vladimirslavicek/OneDrive - DELTA - SŠIE, s.r.o/Programování/replit_070_delitelnost/replit_070_delitelnost/obj/Debug/net5.0/replit_070_delitelnost.csproj.CoreCompileInputs.cache
+/Users/vladimirslavicek/OneDrive - DELTA - SŠIE, s.r.o/Programování/replit_070_delitelnost/replit_070_delitelnost/obj/Debug/net5.0/replit_070_delitelnost.dll
+/Users/vladimirslavicek/OneDrive - DELTA - SŠIE, s.r.o/Programování/replit_070_delitelnost/replit_070_delitelnost/obj/Debug/net5.0/ref/replit_070_delitelnost.dll
+/Users/vladimirslavicek/OneDrive - DELTA - SŠIE, s.r.o/Programování/replit_070_delitelnost/replit_070_delitelnost/obj/Debug/net5.0/replit_070_delitelnost.pdb
+/Users/vladimirslavicek/OneDrive - DELTA - SŠIE, s.r.o/Programování/replit_070_delitelnost/replit_070_delitelnost/obj/Debug/net5.0/replit_070_delitelnost.genruntimeconfig.cache

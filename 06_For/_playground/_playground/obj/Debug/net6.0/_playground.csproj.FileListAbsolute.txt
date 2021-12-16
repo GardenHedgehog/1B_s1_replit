@@ -1,0 +1,15 @@
+/Users/vladimirslavicek/Documents/GitHub/1B_s1_replit/06_For/_playground/_playground/bin/Debug/net6.0/_playground
+/Users/vladimirslavicek/Documents/GitHub/1B_s1_replit/06_For/_playground/_playground/bin/Debug/net6.0/_playground.deps.json
+/Users/vladimirslavicek/Documents/GitHub/1B_s1_replit/06_For/_playground/_playground/bin/Debug/net6.0/_playground.runtimeconfig.json
+/Users/vladimirslavicek/Documents/GitHub/1B_s1_replit/06_For/_playground/_playground/bin/Debug/net6.0/_playground.dll
+/Users/vladimirslavicek/Documents/GitHub/1B_s1_replit/06_For/_playground/_playground/bin/Debug/net6.0/ref/_playground.dll
+/Users/vladimirslavicek/Documents/GitHub/1B_s1_replit/06_For/_playground/_playground/bin/Debug/net6.0/_playground.pdb
+/Users/vladimirslavicek/Documents/GitHub/1B_s1_replit/06_For/_playground/_playground/obj/Debug/net6.0/_playground.csproj.AssemblyReference.cache
+/Users/vladimirslavicek/Documents/GitHub/1B_s1_replit/06_For/_playground/_playground/obj/Debug/net6.0/_playground.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vladimirslavicek/Documents/GitHub/1B_s1_replit/06_For/_playground/_playground/obj/Debug/net6.0/_playground.AssemblyInfoInputs.cache
+/Users/vladimirslavicek/Documents/GitHub/1B_s1_replit/06_For/_playground/_playground/obj/Debug/net6.0/_playground.AssemblyInfo.cs
+/Users/vladimirslavicek/Documents/GitHub/1B_s1_replit/06_For/_playground/_playground/obj/Debug/net6.0/_playground.csproj.CoreCompileInputs.cache
+/Users/vladimirslavicek/Documents/GitHub/1B_s1_replit/06_For/_playground/_playground/obj/Debug/net6.0/_playground.dll
+/Users/vladimirslavicek/Documents/GitHub/1B_s1_replit/06_For/_playground/_playground/obj/Debug/net6.0/ref/_playground.dll
+/Users/vladimirslavicek/Documents/GitHub/1B_s1_replit/06_For/_playground/_playground/obj/Debug/net6.0/_playground.pdb
+/Users/vladimirslavicek/Documents/GitHub/1B_s1_replit/06_For/_playground/_playground/obj/Debug/net6.0/_playground.genruntimeconfig.cache

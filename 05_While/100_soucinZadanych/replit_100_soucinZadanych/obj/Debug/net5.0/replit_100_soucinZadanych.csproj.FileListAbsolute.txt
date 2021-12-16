@@ -1,0 +1,15 @@
+/Users/vladimirslavicek/OneDrive - DELTA - SŠIE, s.r.o/Programování/replit_100_soucinZadanych/replit_100_soucinZadanych/bin/Debug/net5.0/replit_100_soucinZadanych.deps.json
+/Users/vladimirslavicek/OneDrive - DELTA - SŠIE, s.r.o/Programování/replit_100_soucinZadanych/replit_100_soucinZadanych/bin/Debug/net5.0/replit_100_soucinZadanych.runtimeconfig.json
+/Users/vladimirslavicek/OneDrive - DELTA - SŠIE, s.r.o/Programování/replit_100_soucinZadanych/replit_100_soucinZadanych/bin/Debug/net5.0/replit_100_soucinZadanych.runtimeconfig.dev.json
+/Users/vladimirslavicek/OneDrive - DELTA - SŠIE, s.r.o/Programování/replit_100_soucinZadanych/replit_100_soucinZadanych/bin/Debug/net5.0/replit_100_soucinZadanych.dll
+/Users/vladimirslavicek/OneDrive - DELTA - SŠIE, s.r.o/Programování/replit_100_soucinZadanych/replit_100_soucinZadanych/bin/Debug/net5.0/ref/replit_100_soucinZadanych.dll
+/Users/vladimirslavicek/OneDrive - DELTA - SŠIE, s.r.o/Programování/replit_100_soucinZadanych/replit_100_soucinZadanych/bin/Debug/net5.0/replit_100_soucinZadanych.pdb
+/Users/vladimirslavicek/OneDrive - DELTA - SŠIE, s.r.o/Programování/replit_100_soucinZadanych/replit_100_soucinZadanych/obj/Debug/net5.0/replit_100_soucinZadanych.csproj.AssemblyReference.cache
+/Users/vladimirslavicek/OneDrive - DELTA - SŠIE, s.r.o/Programování/replit_100_soucinZadanych/replit_100_soucinZadanych/obj/Debug/net5.0/replit_100_soucinZadanych.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vladimirslavicek/OneDrive - DELTA - SŠIE, s.r.o/Programování/replit_100_soucinZadanych/replit_100_soucinZadanych/obj/Debug/net5.0/replit_100_soucinZadanych.AssemblyInfoInputs.cache
+/Users/vladimirslavicek/OneDrive - DELTA - SŠIE, s.r.o/Programování/replit_100_soucinZadanych/replit_100_soucinZadanych/obj/Debug/net5.0/replit_100_soucinZadanych.AssemblyInfo.cs
+/Users/vladimirslavicek/OneDrive - DELTA - SŠIE, s.r.o/Programování/replit_100_soucinZadanych/replit_100_soucinZadanych/obj/Debug/net5.0/replit_100_soucinZadanych.csproj.CoreCompileInputs.cache
+/Users/vladimirslavicek/OneDrive - DELTA - SŠIE, s.r.o/Programování/replit_100_soucinZadanych/replit_100_soucinZadanych/obj/Debug/net5.0/replit_100_soucinZadanych.dll
+/Users/vladimirslavicek/OneDrive - DELTA - SŠIE, s.r.o/Programování/replit_100_soucinZadanych/replit_100_soucinZadanych/obj/Debug/net5.0/ref/replit_100_soucinZadanych.dll
+/Users/vladimirslavicek/OneDrive - DELTA - SŠIE, s.r.o/Programování/replit_100_soucinZadanych/replit_100_soucinZadanych/obj/Debug/net5.0/replit_100_soucinZadanych.pdb
+/Users/vladimirslavicek/OneDrive - DELTA - SŠIE, s.r.o/Programování/replit_100_soucinZadanych/replit_100_soucinZadanych/obj/Debug/net5.0/replit_100_soucinZadanych.genruntimeconfig.cache

@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{9E2A2DD0-10F5-4158-A67D-ACB7F933EC77}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="replit_090_soucetInterval/Program.cs">
+    <Files>
+      <File FileName="replit_090_soucetInterval/Program.cs" Line="28" Column="28" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="replit_090_soucetInterval" expanded="True">
+            <Node name="replit_090_soucetInterval" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.replit__090__soucetInterval PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

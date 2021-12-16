@@ -1,0 +1,15 @@
+/Users/vladimirslavicek/OneDrive - DELTA - SŠIE, s.r.o/Programování/replit_010_malaNasobilka/replit_010_malaNasobilka/bin/Debug/net5.0/replit_010_malaNasobilka.deps.json
+/Users/vladimirslavicek/OneDrive - DELTA - SŠIE, s.r.o/Programování/replit_010_malaNasobilka/replit_010_malaNasobilka/bin/Debug/net5.0/replit_010_malaNasobilka.runtimeconfig.json
+/Users/vladimirslavicek/OneDrive - DELTA - SŠIE, s.r.o/Programování/replit_010_malaNasobilka/replit_010_malaNasobilka/bin/Debug/net5.0/replit_010_malaNasobilka.runtimeconfig.dev.json
+/Users/vladimirslavicek/OneDrive - DELTA - SŠIE, s.r.o/Programování/replit_010_malaNasobilka/replit_010_malaNasobilka/bin/Debug/net5.0/replit_010_malaNasobilka.dll
+/Users/vladimirslavicek/OneDrive - DELTA - SŠIE, s.r.o/Programování/replit_010_malaNasobilka/replit_010_malaNasobilka/bin/Debug/net5.0/ref/replit_010_malaNasobilka.dll
+/Users/vladimirslavicek/OneDrive - DELTA - SŠIE, s.r.o/Programování/replit_010_malaNasobilka/replit_010_malaNasobilka/bin/Debug/net5.0/replit_010_malaNasobilka.pdb
+/Users/vladimirslavicek/OneDrive - DELTA - SŠIE, s.r.o/Programování/replit_010_malaNasobilka/replit_010_malaNasobilka/obj/Debug/net5.0/replit_010_malaNasobilka.csproj.AssemblyReference.cache
+/Users/vladimirslavicek/OneDrive - DELTA - SŠIE, s.r.o/Programování/replit_010_malaNasobilka/replit_010_malaNasobilka/obj/Debug/net5.0/replit_010_malaNasobilka.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vladimirslavicek/OneDrive - DELTA - SŠIE, s.r.o/Programování/replit_010_malaNasobilka/replit_010_malaNasobilka/obj/Debug/net5.0/replit_010_malaNasobilka.AssemblyInfoInputs.cache
+/Users/vladimirslavicek/OneDrive - DELTA - SŠIE, s.r.o/Programování/replit_010_malaNasobilka/replit_010_malaNasobilka/obj/Debug/net5.0/replit_010_malaNasobilka.AssemblyInfo.cs
+/Users/vladimirslavicek/OneDrive - DELTA - SŠIE, s.r.o/Programování/replit_010_malaNasobilka/replit_010_malaNasobilka/obj/Debug/net5.0/replit_010_malaNasobilka.csproj.CoreCompileInputs.cache
+/Users/vladimirslavicek/OneDrive - DELTA - SŠIE, s.r.o/Programování/replit_010_malaNasobilka/replit_010_malaNasobilka/obj/Debug/net5.0/replit_010_malaNasobilka.dll
+/Users/vladimirslavicek/OneDrive - DELTA - SŠIE, s.r.o/Programování/replit_010_malaNasobilka/replit_010_malaNasobilka/obj/Debug/net5.0/ref/replit_010_malaNasobilka.dll
+/Users/vladimirslavicek/OneDrive - DELTA - SŠIE, s.r.o/Programování/replit_010_malaNasobilka/replit_010_malaNasobilka/obj/Debug/net5.0/replit_010_malaNasobilka.pdb
+/Users/vladimirslavicek/OneDrive - DELTA - SŠIE, s.r.o/Programování/replit_010_malaNasobilka/replit_010_malaNasobilka/obj/Debug/net5.0/replit_010_malaNasobilka.genruntimeconfig.cache

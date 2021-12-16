@@ -1,0 +1,15 @@
+/Users/vladimirslavicek/OneDrive - DELTA - SŠIE, s.r.o/Programování/replit_110_kdyPadne/replit_110_kdyPadne/bin/Debug/net5.0/replit_110_kdyPadne.deps.json
+/Users/vladimirslavicek/OneDrive - DELTA - SŠIE, s.r.o/Programování/replit_110_kdyPadne/replit_110_kdyPadne/bin/Debug/net5.0/replit_110_kdyPadne.runtimeconfig.json
+/Users/vladimirslavicek/OneDrive - DELTA - SŠIE, s.r.o/Programování/replit_110_kdyPadne/replit_110_kdyPadne/bin/Debug/net5.0/replit_110_kdyPadne.runtimeconfig.dev.json
+/Users/vladimirslavicek/OneDrive - DELTA - SŠIE, s.r.o/Programování/replit_110_kdyPadne/replit_110_kdyPadne/bin/Debug/net5.0/replit_110_kdyPadne.dll
+/Users/vladimirslavicek/OneDrive - DELTA - SŠIE, s.r.o/Programování/replit_110_kdyPadne/replit_110_kdyPadne/bin/Debug/net5.0/ref/replit_110_kdyPadne.dll
+/Users/vladimirslavicek/OneDrive - DELTA - SŠIE, s.r.o/Programování/replit_110_kdyPadne/replit_110_kdyPadne/bin/Debug/net5.0/replit_110_kdyPadne.pdb
+/Users/vladimirslavicek/OneDrive - DELTA - SŠIE, s.r.o/Programování/replit_110_kdyPadne/replit_110_kdyPadne/obj/Debug/net5.0/replit_110_kdyPadne.csproj.AssemblyReference.cache
+/Users/vladimirslavicek/OneDrive - DELTA - SŠIE, s.r.o/Programování/replit_110_kdyPadne/replit_110_kdyPadne/obj/Debug/net5.0/replit_110_kdyPadne.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vladimirslavicek/OneDrive - DELTA - SŠIE, s.r.o/Programování/replit_110_kdyPadne/replit_110_kdyPadne/obj/Debug/net5.0/replit_110_kdyPadne.AssemblyInfoInputs.cache
+/Users/vladimirslavicek/OneDrive - DELTA - SŠIE, s.r.o/Programování/replit_110_kdyPadne/replit_110_kdyPadne/obj/Debug/net5.0/replit_110_kdyPadne.AssemblyInfo.cs
+/Users/vladimirslavicek/OneDrive - DELTA - SŠIE, s.r.o/Programování/replit_110_kdyPadne/replit_110_kdyPadne/obj/Debug/net5.0/replit_110_kdyPadne.csproj.CoreCompileInputs.cache
+/Users/vladimirslavicek/OneDrive - DELTA - SŠIE, s.r.o/Programování/replit_110_kdyPadne/replit_110_kdyPadne/obj/Debug/net5.0/replit_110_kdyPadne.dll
+/Users/vladimirslavicek/OneDrive - DELTA - SŠIE, s.r.o/Programování/replit_110_kdyPadne/replit_110_kdyPadne/obj/Debug/net5.0/ref/replit_110_kdyPadne.dll
+/Users/vladimirslavicek/OneDrive - DELTA - SŠIE, s.r.o/Programování/replit_110_kdyPadne/replit_110_kdyPadne/obj/Debug/net5.0/replit_110_kdyPadne.pdb
+/Users/vladimirslavicek/OneDrive - DELTA - SŠIE, s.r.o/Programování/replit_110_kdyPadne/replit_110_kdyPadne/obj/Debug/net5.0/replit_110_kdyPadne.genruntimeconfig.cache

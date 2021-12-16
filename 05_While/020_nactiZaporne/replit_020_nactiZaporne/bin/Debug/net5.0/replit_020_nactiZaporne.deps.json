@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "replit_020_nactiZaporne/1.0.0": {
+        "runtime": {
+          "replit_020_nactiZaporne.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "replit_020_nactiZaporne/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

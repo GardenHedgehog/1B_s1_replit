@@ -1,0 +1,15 @@
+/Users/vladimirslavicek/OneDrive - DELTA - SŠIE, s.r.o/Programování/replit_020_nactiZaporne/replit_020_nactiZaporne/bin/Debug/net5.0/replit_020_nactiZaporne.deps.json
+/Users/vladimirslavicek/OneDrive - DELTA - SŠIE, s.r.o/Programování/replit_020_nactiZaporne/replit_020_nactiZaporne/bin/Debug/net5.0/replit_020_nactiZaporne.runtimeconfig.json
+/Users/vladimirslavicek/OneDrive - DELTA - SŠIE, s.r.o/Programování/replit_020_nactiZaporne/replit_020_nactiZaporne/bin/Debug/net5.0/replit_020_nactiZaporne.runtimeconfig.dev.json
+/Users/vladimirslavicek/OneDrive - DELTA - SŠIE, s.r.o/Programování/replit_020_nactiZaporne/replit_020_nactiZaporne/bin/Debug/net5.0/replit_020_nactiZaporne.dll
+/Users/vladimirslavicek/OneDrive - DELTA - SŠIE, s.r.o/Programování/replit_020_nactiZaporne/replit_020_nactiZaporne/bin/Debug/net5.0/ref/replit_020_nactiZaporne.dll
+/Users/vladimirslavicek/OneDrive - DELTA - SŠIE, s.r.o/Programování/replit_020_nactiZaporne/replit_020_nactiZaporne/bin/Debug/net5.0/replit_020_nactiZaporne.pdb
+/Users/vladimirslavicek/OneDrive - DELTA - SŠIE, s.r.o/Programování/replit_020_nactiZaporne/replit_020_nactiZaporne/obj/Debug/net5.0/replit_020_nactiZaporne.csproj.AssemblyReference.cache
+/Users/vladimirslavicek/OneDrive - DELTA - SŠIE, s.r.o/Programování/replit_020_nactiZaporne/replit_020_nactiZaporne/obj/Debug/net5.0/replit_020_nactiZaporne.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vladimirslavicek/OneDrive - DELTA - SŠIE, s.r.o/Programování/replit_020_nactiZaporne/replit_020_nactiZaporne/obj/Debug/net5.0/replit_020_nactiZaporne.AssemblyInfoInputs.cache
+/Users/vladimirslavicek/OneDrive - DELTA - SŠIE, s.r.o/Programování/replit_020_nactiZaporne/replit_020_nactiZaporne/obj/Debug/net5.0/replit_020_nactiZaporne.AssemblyInfo.cs
+/Users/vladimirslavicek/OneDrive - DELTA - SŠIE, s.r.o/Programování/replit_020_nactiZaporne/replit_020_nactiZaporne/obj/Debug/net5.0/replit_020_nactiZaporne.csproj.CoreCompileInputs.cache
+/Users/vladimirslavicek/OneDrive - DELTA - SŠIE, s.r.o/Programování/replit_020_nactiZaporne/replit_020_nactiZaporne/obj/Debug/net5.0/replit_020_nactiZaporne.dll
+/Users/vladimirslavicek/OneDrive - DELTA - SŠIE, s.r.o/Programování/replit_020_nactiZaporne/replit_020_nactiZaporne/obj/Debug/net5.0/ref/replit_020_nactiZaporne.dll
+/Users/vladimirslavicek/OneDrive - DELTA - SŠIE, s.r.o/Programování/replit_020_nactiZaporne/replit_020_nactiZaporne/obj/Debug/net5.0/replit_020_nactiZaporne.pdb
+/Users/vladimirslavicek/OneDrive - DELTA - SŠIE, s.r.o/Programování/replit_020_nactiZaporne/replit_020_nactiZaporne/obj/Debug/net5.0/replit_020_nactiZaporne.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "prumhod", "prumhod\prumhod.csproj", "{AC67C1FA-00BF-4A8C-8F98-D3A4678ACC9F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AC67C1FA-00BF-4A8C-8F98-D3A4678ACC9F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC67C1FA-00BF-4A8C-8F98-D3A4678ACC9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC67C1FA-00BF-4A8C-8F98-D3A4678ACC9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC67C1FA-00BF-4A8C-8F98-D3A4678ACC9F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

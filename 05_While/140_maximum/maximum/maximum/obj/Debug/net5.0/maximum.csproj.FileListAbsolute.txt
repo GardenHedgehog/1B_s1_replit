@@ -1,0 +1,15 @@
+/Users/vladimirslavicek/Documents/GitHub/1B_s1_replit/05_While/140_maximum/maximum/maximum/bin/Debug/net5.0/maximum.deps.json
+/Users/vladimirslavicek/Documents/GitHub/1B_s1_replit/05_While/140_maximum/maximum/maximum/bin/Debug/net5.0/maximum.runtimeconfig.json
+/Users/vladimirslavicek/Documents/GitHub/1B_s1_replit/05_While/140_maximum/maximum/maximum/bin/Debug/net5.0/maximum.runtimeconfig.dev.json
+/Users/vladimirslavicek/Documents/GitHub/1B_s1_replit/05_While/140_maximum/maximum/maximum/bin/Debug/net5.0/maximum.dll
+/Users/vladimirslavicek/Documents/GitHub/1B_s1_replit/05_While/140_maximum/maximum/maximum/bin/Debug/net5.0/ref/maximum.dll
+/Users/vladimirslavicek/Documents/GitHub/1B_s1_replit/05_While/140_maximum/maximum/maximum/bin/Debug/net5.0/maximum.pdb
+/Users/vladimirslavicek/Documents/GitHub/1B_s1_replit/05_While/140_maximum/maximum/maximum/obj/Debug/net5.0/maximum.csproj.AssemblyReference.cache
+/Users/vladimirslavicek/Documents/GitHub/1B_s1_replit/05_While/140_maximum/maximum/maximum/obj/Debug/net5.0/maximum.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vladimirslavicek/Documents/GitHub/1B_s1_replit/05_While/140_maximum/maximum/maximum/obj/Debug/net5.0/maximum.AssemblyInfoInputs.cache
+/Users/vladimirslavicek/Documents/GitHub/1B_s1_replit/05_While/140_maximum/maximum/maximum/obj/Debug/net5.0/maximum.AssemblyInfo.cs
+/Users/vladimirslavicek/Documents/GitHub/1B_s1_replit/05_While/140_maximum/maximum/maximum/obj/Debug/net5.0/maximum.csproj.CoreCompileInputs.cache
+/Users/vladimirslavicek/Documents/GitHub/1B_s1_replit/05_While/140_maximum/maximum/maximum/obj/Debug/net5.0/maximum.dll
+/Users/vladimirslavicek/Documents/GitHub/1B_s1_replit/05_While/140_maximum/maximum/maximum/obj/Debug/net5.0/ref/maximum.dll
+/Users/vladimirslavicek/Documents/GitHub/1B_s1_replit/05_While/140_maximum/maximum/maximum/obj/Debug/net5.0/maximum.pdb
+/Users/vladimirslavicek/Documents/GitHub/1B_s1_replit/05_While/140_maximum/maximum/maximum/obj/Debug/net5.0/maximum.genruntimeconfig.cache

@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{05D93994-BBD7-4B5D-B83C-B1243AB6F0D2}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="replit_060_sudeNadDeset/Program.cs">
+    <Files>
+      <File FileName="replit_060_sudeNadDeset/Program.cs" Line="23" Column="37" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="replit_060_sudeNadDeset" expanded="True">
+            <Node name="replit_060_sudeNadDeset" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.replit__060__sudeNadDeset PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

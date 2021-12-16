@@ -1,0 +1,15 @@
+/Users/vladimirslavicek/OneDrive - DELTA - SŠIE, s.r.o/Programování/replit_090_soucetInterval/replit_090_soucetInterval/bin/Debug/net5.0/replit_090_soucetInterval.deps.json
+/Users/vladimirslavicek/OneDrive - DELTA - SŠIE, s.r.o/Programování/replit_090_soucetInterval/replit_090_soucetInterval/bin/Debug/net5.0/replit_090_soucetInterval.runtimeconfig.json
+/Users/vladimirslavicek/OneDrive - DELTA - SŠIE, s.r.o/Programování/replit_090_soucetInterval/replit_090_soucetInterval/bin/Debug/net5.0/replit_090_soucetInterval.runtimeconfig.dev.json
+/Users/vladimirslavicek/OneDrive - DELTA - SŠIE, s.r.o/Programování/replit_090_soucetInterval/replit_090_soucetInterval/bin/Debug/net5.0/replit_090_soucetInterval.dll
+/Users/vladimirslavicek/OneDrive - DELTA - SŠIE, s.r.o/Programování/replit_090_soucetInterval/replit_090_soucetInterval/bin/Debug/net5.0/ref/replit_090_soucetInterval.dll
+/Users/vladimirslavicek/OneDrive - DELTA - SŠIE, s.r.o/Programování/replit_090_soucetInterval/replit_090_soucetInterval/bin/Debug/net5.0/replit_090_soucetInterval.pdb
+/Users/vladimirslavicek/OneDrive - DELTA - SŠIE, s.r.o/Programování/replit_090_soucetInterval/replit_090_soucetInterval/obj/Debug/net5.0/replit_090_soucetInterval.csproj.AssemblyReference.cache
+/Users/vladimirslavicek/OneDrive - DELTA - SŠIE, s.r.o/Programování/replit_090_soucetInterval/replit_090_soucetInterval/obj/Debug/net5.0/replit_090_soucetInterval.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vladimirslavicek/OneDrive - DELTA - SŠIE, s.r.o/Programování/replit_090_soucetInterval/replit_090_soucetInterval/obj/Debug/net5.0/replit_090_soucetInterval.AssemblyInfoInputs.cache
+/Users/vladimirslavicek/OneDrive - DELTA - SŠIE, s.r.o/Programování/replit_090_soucetInterval/replit_090_soucetInterval/obj/Debug/net5.0/replit_090_soucetInterval.AssemblyInfo.cs
+/Users/vladimirslavicek/OneDrive - DELTA - SŠIE, s.r.o/Programování/replit_090_soucetInterval/replit_090_soucetInterval/obj/Debug/net5.0/replit_090_soucetInterval.csproj.CoreCompileInputs.cache
+/Users/vladimirslavicek/OneDrive - DELTA - SŠIE, s.r.o/Programování/replit_090_soucetInterval/replit_090_soucetInterval/obj/Debug/net5.0/replit_090_soucetInterval.dll
+/Users/vladimirslavicek/OneDrive - DELTA - SŠIE, s.r.o/Programování/replit_090_soucetInterval/replit_090_soucetInterval/obj/Debug/net5.0/ref/replit_090_soucetInterval.dll
+/Users/vladimirslavicek/OneDrive - DELTA - SŠIE, s.r.o/Programování/replit_090_soucetInterval/replit_090_soucetInterval/obj/Debug/net5.0/replit_090_soucetInterval.pdb
+/Users/vladimirslavicek/OneDrive - DELTA - SŠIE, s.r.o/Programování/replit_090_soucetInterval/replit_090_soucetInterval/obj/Debug/net5.0/replit_090_soucetInterval.genruntimeconfig.cache

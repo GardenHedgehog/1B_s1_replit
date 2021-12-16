@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{213BF1D6-4756-4CED-8E32-FEE752C0ED07}|Default">
+  <MonoDevelop.Ide.ItemProperties.replit__120__poctyPodleParity PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="replit_120_poctyPodleParity/Program.cs">
+    <Files>
+      <File FileName="replit_120_poctyPodleParity/Program.cs" Line="6" Column="5" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="replit_120_poctyPodleParity" expanded="True">
+            <Node name="replit_120_poctyPodleParity" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

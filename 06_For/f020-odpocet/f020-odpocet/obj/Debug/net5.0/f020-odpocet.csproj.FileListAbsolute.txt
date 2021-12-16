@@ -1,0 +1,15 @@
+/Users/vladimirslavicek/Documents/GitHub/1B_s1_replit/06_For/f020-odpocet/f020-odpocet/bin/Debug/net5.0/f020-odpocet.deps.json
+/Users/vladimirslavicek/Documents/GitHub/1B_s1_replit/06_For/f020-odpocet/f020-odpocet/bin/Debug/net5.0/f020-odpocet.runtimeconfig.json
+/Users/vladimirslavicek/Documents/GitHub/1B_s1_replit/06_For/f020-odpocet/f020-odpocet/bin/Debug/net5.0/f020-odpocet.runtimeconfig.dev.json
+/Users/vladimirslavicek/Documents/GitHub/1B_s1_replit/06_For/f020-odpocet/f020-odpocet/bin/Debug/net5.0/f020-odpocet.dll
+/Users/vladimirslavicek/Documents/GitHub/1B_s1_replit/06_For/f020-odpocet/f020-odpocet/bin/Debug/net5.0/ref/f020-odpocet.dll
+/Users/vladimirslavicek/Documents/GitHub/1B_s1_replit/06_For/f020-odpocet/f020-odpocet/bin/Debug/net5.0/f020-odpocet.pdb
+/Users/vladimirslavicek/Documents/GitHub/1B_s1_replit/06_For/f020-odpocet/f020-odpocet/obj/Debug/net5.0/f020-odpocet.csproj.AssemblyReference.cache
+/Users/vladimirslavicek/Documents/GitHub/1B_s1_replit/06_For/f020-odpocet/f020-odpocet/obj/Debug/net5.0/f020-odpocet.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vladimirslavicek/Documents/GitHub/1B_s1_replit/06_For/f020-odpocet/f020-odpocet/obj/Debug/net5.0/f020-odpocet.AssemblyInfoInputs.cache
+/Users/vladimirslavicek/Documents/GitHub/1B_s1_replit/06_For/f020-odpocet/f020-odpocet/obj/Debug/net5.0/f020-odpocet.AssemblyInfo.cs
+/Users/vladimirslavicek/Documents/GitHub/1B_s1_replit/06_For/f020-odpocet/f020-odpocet/obj/Debug/net5.0/f020-odpocet.csproj.CoreCompileInputs.cache
+/Users/vladimirslavicek/Documents/GitHub/1B_s1_replit/06_For/f020-odpocet/f020-odpocet/obj/Debug/net5.0/f020-odpocet.dll
+/Users/vladimirslavicek/Documents/GitHub/1B_s1_replit/06_For/f020-odpocet/f020-odpocet/obj/Debug/net5.0/ref/f020-odpocet.dll
+/Users/vladimirslavicek/Documents/GitHub/1B_s1_replit/06_For/f020-odpocet/f020-odpocet/obj/Debug/net5.0/f020-odpocet.pdb
+/Users/vladimirslavicek/Documents/GitHub/1B_s1_replit/06_For/f020-odpocet/f020-odpocet/obj/Debug/net5.0/f020-odpocet.genruntimeconfig.cache

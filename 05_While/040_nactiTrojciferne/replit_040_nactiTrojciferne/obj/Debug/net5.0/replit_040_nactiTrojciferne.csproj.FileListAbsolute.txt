@@ -1,0 +1,15 @@
+/Users/vladimirslavicek/OneDrive - DELTA - SŠIE, s.r.o/Programování/replit_040_nactiTrojciferne/replit_040_nactiTrojciferne/obj/Debug/net5.0/replit_040_nactiTrojciferne.csproj.AssemblyReference.cache
+/Users/vladimirslavicek/OneDrive - DELTA - SŠIE, s.r.o/Programování/replit_040_nactiTrojciferne/replit_040_nactiTrojciferne/obj/Debug/net5.0/replit_040_nactiTrojciferne.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vladimirslavicek/OneDrive - DELTA - SŠIE, s.r.o/Programování/replit_040_nactiTrojciferne/replit_040_nactiTrojciferne/obj/Debug/net5.0/replit_040_nactiTrojciferne.AssemblyInfoInputs.cache
+/Users/vladimirslavicek/OneDrive - DELTA - SŠIE, s.r.o/Programování/replit_040_nactiTrojciferne/replit_040_nactiTrojciferne/obj/Debug/net5.0/replit_040_nactiTrojciferne.AssemblyInfo.cs
+/Users/vladimirslavicek/OneDrive - DELTA - SŠIE, s.r.o/Programování/replit_040_nactiTrojciferne/replit_040_nactiTrojciferne/obj/Debug/net5.0/replit_040_nactiTrojciferne.csproj.CoreCompileInputs.cache
+/Users/vladimirslavicek/OneDrive - DELTA - SŠIE, s.r.o/Programování/replit_040_nactiTrojciferne/replit_040_nactiTrojciferne/bin/Debug/net5.0/replit_040_nactiTrojciferne.deps.json
+/Users/vladimirslavicek/OneDrive - DELTA - SŠIE, s.r.o/Programování/replit_040_nactiTrojciferne/replit_040_nactiTrojciferne/bin/Debug/net5.0/replit_040_nactiTrojciferne.runtimeconfig.json
+/Users/vladimirslavicek/OneDrive - DELTA - SŠIE, s.r.o/Programování/replit_040_nactiTrojciferne/replit_040_nactiTrojciferne/bin/Debug/net5.0/replit_040_nactiTrojciferne.runtimeconfig.dev.json
+/Users/vladimirslavicek/OneDrive - DELTA - SŠIE, s.r.o/Programování/replit_040_nactiTrojciferne/replit_040_nactiTrojciferne/bin/Debug/net5.0/replit_040_nactiTrojciferne.dll
+/Users/vladimirslavicek/OneDrive - DELTA - SŠIE, s.r.o/Programování/replit_040_nactiTrojciferne/replit_040_nactiTrojciferne/bin/Debug/net5.0/ref/replit_040_nactiTrojciferne.dll
+/Users/vladimirslavicek/OneDrive - DELTA - SŠIE, s.r.o/Programování/replit_040_nactiTrojciferne/replit_040_nactiTrojciferne/bin/Debug/net5.0/replit_040_nactiTrojciferne.pdb
+/Users/vladimirslavicek/OneDrive - DELTA - SŠIE, s.r.o/Programování/replit_040_nactiTrojciferne/replit_040_nactiTrojciferne/obj/Debug/net5.0/replit_040_nactiTrojciferne.dll
+/Users/vladimirslavicek/OneDrive - DELTA - SŠIE, s.r.o/Programování/replit_040_nactiTrojciferne/replit_040_nactiTrojciferne/obj/Debug/net5.0/ref/replit_040_nactiTrojciferne.dll
+/Users/vladimirslavicek/OneDrive - DELTA - SŠIE, s.r.o/Programování/replit_040_nactiTrojciferne/replit_040_nactiTrojciferne/obj/Debug/net5.0/replit_040_nactiTrojciferne.pdb
+/Users/vladimirslavicek/OneDrive - DELTA - SŠIE, s.r.o/Programování/replit_040_nactiTrojciferne/replit_040_nactiTrojciferne/obj/Debug/net5.0/replit_040_nactiTrojciferne.genruntimeconfig.cache

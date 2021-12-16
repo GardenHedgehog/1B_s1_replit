@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.810.9
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "replit_060_sudeNadDeset", "replit_060_sudeNadDeset\replit_060_sudeNadDeset.csproj", "{05D93994-BBD7-4B5D-B83C-B1243AB6F0D2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{05D93994-BBD7-4B5D-B83C-B1243AB6F0D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05D93994-BBD7-4B5D-B83C-B1243AB6F0D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05D93994-BBD7-4B5D-B83C-B1243AB6F0D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05D93994-BBD7-4B5D-B83C-B1243AB6F0D2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1B9098BB-6E89-4559-9FD8-B532CF150A31}
+	EndGlobalSection
+EndGlobal

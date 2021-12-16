@@ -1,0 +1,15 @@
+/Users/vladimirslavicek/Documents/GitHub/1B_s1_replit/05_While/160_bezpecneNacteniCisla/bezpecneNacteniCisla/bezpecneNacteniCisla/bin/Debug/net5.0/bezpecneNacteniCisla.deps.json
+/Users/vladimirslavicek/Documents/GitHub/1B_s1_replit/05_While/160_bezpecneNacteniCisla/bezpecneNacteniCisla/bezpecneNacteniCisla/bin/Debug/net5.0/bezpecneNacteniCisla.runtimeconfig.json
+/Users/vladimirslavicek/Documents/GitHub/1B_s1_replit/05_While/160_bezpecneNacteniCisla/bezpecneNacteniCisla/bezpecneNacteniCisla/bin/Debug/net5.0/bezpecneNacteniCisla.runtimeconfig.dev.json
+/Users/vladimirslavicek/Documents/GitHub/1B_s1_replit/05_While/160_bezpecneNacteniCisla/bezpecneNacteniCisla/bezpecneNacteniCisla/bin/Debug/net5.0/bezpecneNacteniCisla.dll
+/Users/vladimirslavicek/Documents/GitHub/1B_s1_replit/05_While/160_bezpecneNacteniCisla/bezpecneNacteniCisla/bezpecneNacteniCisla/bin/Debug/net5.0/ref/bezpecneNacteniCisla.dll
+/Users/vladimirslavicek/Documents/GitHub/1B_s1_replit/05_While/160_bezpecneNacteniCisla/bezpecneNacteniCisla/bezpecneNacteniCisla/bin/Debug/net5.0/bezpecneNacteniCisla.pdb
+/Users/vladimirslavicek/Documents/GitHub/1B_s1_replit/05_While/160_bezpecneNacteniCisla/bezpecneNacteniCisla/bezpecneNacteniCisla/obj/Debug/net5.0/bezpecneNacteniCisla.csproj.AssemblyReference.cache
+/Users/vladimirslavicek/Documents/GitHub/1B_s1_replit/05_While/160_bezpecneNacteniCisla/bezpecneNacteniCisla/bezpecneNacteniCisla/obj/Debug/net5.0/bezpecneNacteniCisla.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vladimirslavicek/Documents/GitHub/1B_s1_replit/05_While/160_bezpecneNacteniCisla/bezpecneNacteniCisla/bezpecneNacteniCisla/obj/Debug/net5.0/bezpecneNacteniCisla.AssemblyInfoInputs.cache
+/Users/vladimirslavicek/Documents/GitHub/1B_s1_replit/05_While/160_bezpecneNacteniCisla/bezpecneNacteniCisla/bezpecneNacteniCisla/obj/Debug/net5.0/bezpecneNacteniCisla.AssemblyInfo.cs
+/Users/vladimirslavicek/Documents/GitHub/1B_s1_replit/05_While/160_bezpecneNacteniCisla/bezpecneNacteniCisla/bezpecneNacteniCisla/obj/Debug/net5.0/bezpecneNacteniCisla.csproj.CoreCompileInputs.cache
+/Users/vladimirslavicek/Documents/GitHub/1B_s1_replit/05_While/160_bezpecneNacteniCisla/bezpecneNacteniCisla/bezpecneNacteniCisla/obj/Debug/net5.0/bezpecneNacteniCisla.dll
+/Users/vladimirslavicek/Documents/GitHub/1B_s1_replit/05_While/160_bezpecneNacteniCisla/bezpecneNacteniCisla/bezpecneNacteniCisla/obj/Debug/net5.0/ref/bezpecneNacteniCisla.dll
+/Users/vladimirslavicek/Documents/GitHub/1B_s1_replit/05_While/160_bezpecneNacteniCisla/bezpecneNacteniCisla/bezpecneNacteniCisla/obj/Debug/net5.0/bezpecneNacteniCisla.pdb
+/Users/vladimirslavicek/Documents/GitHub/1B_s1_replit/05_While/160_bezpecneNacteniCisla/bezpecneNacteniCisla/bezpecneNacteniCisla/obj/Debug/net5.0/bezpecneNacteniCisla.genruntimeconfig.cache

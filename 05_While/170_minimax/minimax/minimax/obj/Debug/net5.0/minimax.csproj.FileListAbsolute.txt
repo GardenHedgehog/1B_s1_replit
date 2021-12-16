@@ -1,0 +1,15 @@
+/Users/vladimirslavicek/Documents/GitHub/1B_s1_replit/05_While/170_minimax/minimax/minimax/bin/Debug/net5.0/minimax.deps.json
+/Users/vladimirslavicek/Documents/GitHub/1B_s1_replit/05_While/170_minimax/minimax/minimax/bin/Debug/net5.0/minimax.runtimeconfig.json
+/Users/vladimirslavicek/Documents/GitHub/1B_s1_replit/05_While/170_minimax/minimax/minimax/bin/Debug/net5.0/minimax.runtimeconfig.dev.json
+/Users/vladimirslavicek/Documents/GitHub/1B_s1_replit/05_While/170_minimax/minimax/minimax/bin/Debug/net5.0/minimax.dll
+/Users/vladimirslavicek/Documents/GitHub/1B_s1_replit/05_While/170_minimax/minimax/minimax/bin/Debug/net5.0/ref/minimax.dll
+/Users/vladimirslavicek/Documents/GitHub/1B_s1_replit/05_While/170_minimax/minimax/minimax/bin/Debug/net5.0/minimax.pdb
+/Users/vladimirslavicek/Documents/GitHub/1B_s1_replit/05_While/170_minimax/minimax/minimax/obj/Debug/net5.0/minimax.csproj.AssemblyReference.cache
+/Users/vladimirslavicek/Documents/GitHub/1B_s1_replit/05_While/170_minimax/minimax/minimax/obj/Debug/net5.0/minimax.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vladimirslavicek/Documents/GitHub/1B_s1_replit/05_While/170_minimax/minimax/minimax/obj/Debug/net5.0/minimax.AssemblyInfoInputs.cache
+/Users/vladimirslavicek/Documents/GitHub/1B_s1_replit/05_While/170_minimax/minimax/minimax/obj/Debug/net5.0/minimax.AssemblyInfo.cs
+/Users/vladimirslavicek/Documents/GitHub/1B_s1_replit/05_While/170_minimax/minimax/minimax/obj/Debug/net5.0/minimax.csproj.CoreCompileInputs.cache
+/Users/vladimirslavicek/Documents/GitHub/1B_s1_replit/05_While/170_minimax/minimax/minimax/obj/Debug/net5.0/minimax.dll
+/Users/vladimirslavicek/Documents/GitHub/1B_s1_replit/05_While/170_minimax/minimax/minimax/obj/Debug/net5.0/ref/minimax.dll
+/Users/vladimirslavicek/Documents/GitHub/1B_s1_replit/05_While/170_minimax/minimax/minimax/obj/Debug/net5.0/minimax.pdb
+/Users/vladimirslavicek/Documents/GitHub/1B_s1_replit/05_While/170_minimax/minimax/minimax/obj/Debug/net5.0/minimax.genruntimeconfig.cache

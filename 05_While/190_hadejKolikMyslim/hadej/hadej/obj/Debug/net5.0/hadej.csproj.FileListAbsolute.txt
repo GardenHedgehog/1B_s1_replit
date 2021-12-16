@@ -1,0 +1,15 @@
+/Users/vladimirslavicek/Documents/GitHub/1B_s1_replit/05_While/190_hadejKolikMyslim/hadej/hadej/bin/Debug/net5.0/hadej.deps.json
+/Users/vladimirslavicek/Documents/GitHub/1B_s1_replit/05_While/190_hadejKolikMyslim/hadej/hadej/bin/Debug/net5.0/hadej.runtimeconfig.json
+/Users/vladimirslavicek/Documents/GitHub/1B_s1_replit/05_While/190_hadejKolikMyslim/hadej/hadej/bin/Debug/net5.0/hadej.runtimeconfig.dev.json
+/Users/vladimirslavicek/Documents/GitHub/1B_s1_replit/05_While/190_hadejKolikMyslim/hadej/hadej/bin/Debug/net5.0/hadej.dll
+/Users/vladimirslavicek/Documents/GitHub/1B_s1_replit/05_While/190_hadejKolikMyslim/hadej/hadej/bin/Debug/net5.0/ref/hadej.dll
+/Users/vladimirslavicek/Documents/GitHub/1B_s1_replit/05_While/190_hadejKolikMyslim/hadej/hadej/bin/Debug/net5.0/hadej.pdb
+/Users/vladimirslavicek/Documents/GitHub/1B_s1_replit/05_While/190_hadejKolikMyslim/hadej/hadej/obj/Debug/net5.0/hadej.csproj.AssemblyReference.cache
+/Users/vladimirslavicek/Documents/GitHub/1B_s1_replit/05_While/190_hadejKolikMyslim/hadej/hadej/obj/Debug/net5.0/hadej.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vladimirslavicek/Documents/GitHub/1B_s1_replit/05_While/190_hadejKolikMyslim/hadej/hadej/obj/Debug/net5.0/hadej.AssemblyInfoInputs.cache
+/Users/vladimirslavicek/Documents/GitHub/1B_s1_replit/05_While/190_hadejKolikMyslim/hadej/hadej/obj/Debug/net5.0/hadej.AssemblyInfo.cs
+/Users/vladimirslavicek/Documents/GitHub/1B_s1_replit/05_While/190_hadejKolikMyslim/hadej/hadej/obj/Debug/net5.0/hadej.csproj.CoreCompileInputs.cache
+/Users/vladimirslavicek/Documents/GitHub/1B_s1_replit/05_While/190_hadejKolikMyslim/hadej/hadej/obj/Debug/net5.0/hadej.dll
+/Users/vladimirslavicek/Documents/GitHub/1B_s1_replit/05_While/190_hadejKolikMyslim/hadej/hadej/obj/Debug/net5.0/ref/hadej.dll
+/Users/vladimirslavicek/Documents/GitHub/1B_s1_replit/05_While/190_hadejKolikMyslim/hadej/hadej/obj/Debug/net5.0/hadej.pdb
+/Users/vladimirslavicek/Documents/GitHub/1B_s1_replit/05_While/190_hadejKolikMyslim/hadej/hadej/obj/Debug/net5.0/hadej.genruntimeconfig.cache

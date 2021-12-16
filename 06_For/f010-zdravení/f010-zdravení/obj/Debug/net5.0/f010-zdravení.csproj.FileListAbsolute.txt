@@ -1,0 +1,15 @@
+/Users/vladimirslavicek/Documents/GitHub/1B_s1_replit/06_For/f010-zdravení/f010-zdravení/bin/Debug/net5.0/f010-zdravení.deps.json
+/Users/vladimirslavicek/Documents/GitHub/1B_s1_replit/06_For/f010-zdravení/f010-zdravení/bin/Debug/net5.0/f010-zdravení.runtimeconfig.json
+/Users/vladimirslavicek/Documents/GitHub/1B_s1_replit/06_For/f010-zdravení/f010-zdravení/bin/Debug/net5.0/f010-zdravení.runtimeconfig.dev.json
+/Users/vladimirslavicek/Documents/GitHub/1B_s1_replit/06_For/f010-zdravení/f010-zdravení/bin/Debug/net5.0/f010-zdravení.dll
+/Users/vladimirslavicek/Documents/GitHub/1B_s1_replit/06_For/f010-zdravení/f010-zdravení/bin/Debug/net5.0/ref/f010-zdravení.dll
+/Users/vladimirslavicek/Documents/GitHub/1B_s1_replit/06_For/f010-zdravení/f010-zdravení/bin/Debug/net5.0/f010-zdravení.pdb
+/Users/vladimirslavicek/Documents/GitHub/1B_s1_replit/06_For/f010-zdravení/f010-zdravení/obj/Debug/net5.0/f010-zdravení.csproj.AssemblyReference.cache
+/Users/vladimirslavicek/Documents/GitHub/1B_s1_replit/06_For/f010-zdravení/f010-zdravení/obj/Debug/net5.0/f010-zdravení.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vladimirslavicek/Documents/GitHub/1B_s1_replit/06_For/f010-zdravení/f010-zdravení/obj/Debug/net5.0/f010-zdravení.AssemblyInfoInputs.cache
+/Users/vladimirslavicek/Documents/GitHub/1B_s1_replit/06_For/f010-zdravení/f010-zdravení/obj/Debug/net5.0/f010-zdravení.AssemblyInfo.cs
+/Users/vladimirslavicek/Documents/GitHub/1B_s1_replit/06_For/f010-zdravení/f010-zdravení/obj/Debug/net5.0/f010-zdravení.csproj.CoreCompileInputs.cache
+/Users/vladimirslavicek/Documents/GitHub/1B_s1_replit/06_For/f010-zdravení/f010-zdravení/obj/Debug/net5.0/f010-zdravení.dll
+/Users/vladimirslavicek/Documents/GitHub/1B_s1_replit/06_For/f010-zdravení/f010-zdravení/obj/Debug/net5.0/ref/f010-zdravení.dll
+/Users/vladimirslavicek/Documents/GitHub/1B_s1_replit/06_For/f010-zdravení/f010-zdravení/obj/Debug/net5.0/f010-zdravení.pdb
+/Users/vladimirslavicek/Documents/GitHub/1B_s1_replit/06_For/f010-zdravení/f010-zdravení/obj/Debug/net5.0/f010-zdravení.genruntimeconfig.cache

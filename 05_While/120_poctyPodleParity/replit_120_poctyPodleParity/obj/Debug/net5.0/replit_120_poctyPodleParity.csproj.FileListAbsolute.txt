@@ -1,0 +1,15 @@
+/Users/vladimirslavicek/OneDrive - DELTA - SŠIE, s.r.o/Programování/replit_120_poctyPodleParity/replit_120_poctyPodleParity/bin/Debug/net5.0/replit_120_poctyPodleParity.deps.json
+/Users/vladimirslavicek/OneDrive - DELTA - SŠIE, s.r.o/Programování/replit_120_poctyPodleParity/replit_120_poctyPodleParity/bin/Debug/net5.0/replit_120_poctyPodleParity.runtimeconfig.json
+/Users/vladimirslavicek/OneDrive - DELTA - SŠIE, s.r.o/Programování/replit_120_poctyPodleParity/replit_120_poctyPodleParity/bin/Debug/net5.0/replit_120_poctyPodleParity.runtimeconfig.dev.json
+/Users/vladimirslavicek/OneDrive - DELTA - SŠIE, s.r.o/Programování/replit_120_poctyPodleParity/replit_120_poctyPodleParity/bin/Debug/net5.0/replit_120_poctyPodleParity.dll
+/Users/vladimirslavicek/OneDrive - DELTA - SŠIE, s.r.o/Programování/replit_120_poctyPodleParity/replit_120_poctyPodleParity/bin/Debug/net5.0/ref/replit_120_poctyPodleParity.dll
+/Users/vladimirslavicek/OneDrive - DELTA - SŠIE, s.r.o/Programování/replit_120_poctyPodleParity/replit_120_poctyPodleParity/bin/Debug/net5.0/replit_120_poctyPodleParity.pdb
+/Users/vladimirslavicek/OneDrive - DELTA - SŠIE, s.r.o/Programování/replit_120_poctyPodleParity/replit_120_poctyPodleParity/obj/Debug/net5.0/replit_120_poctyPodleParity.csproj.AssemblyReference.cache
+/Users/vladimirslavicek/OneDrive - DELTA - SŠIE, s.r.o/Programování/replit_120_poctyPodleParity/replit_120_poctyPodleParity/obj/Debug/net5.0/replit_120_poctyPodleParity.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vladimirslavicek/OneDrive - DELTA - SŠIE, s.r.o/Programování/replit_120_poctyPodleParity/replit_120_poctyPodleParity/obj/Debug/net5.0/replit_120_poctyPodleParity.AssemblyInfoInputs.cache
+/Users/vladimirslavicek/OneDrive - DELTA - SŠIE, s.r.o/Programování/replit_120_poctyPodleParity/replit_120_poctyPodleParity/obj/Debug/net5.0/replit_120_poctyPodleParity.AssemblyInfo.cs
+/Users/vladimirslavicek/OneDrive - DELTA - SŠIE, s.r.o/Programování/replit_120_poctyPodleParity/replit_120_poctyPodleParity/obj/Debug/net5.0/replit_120_poctyPodleParity.csproj.CoreCompileInputs.cache
+/Users/vladimirslavicek/OneDrive - DELTA - SŠIE, s.r.o/Programování/replit_120_poctyPodleParity/replit_120_poctyPodleParity/obj/Debug/net5.0/replit_120_poctyPodleParity.dll
+/Users/vladimirslavicek/OneDrive - DELTA - SŠIE, s.r.o/Programování/replit_120_poctyPodleParity/replit_120_poctyPodleParity/obj/Debug/net5.0/ref/replit_120_poctyPodleParity.dll
+/Users/vladimirslavicek/OneDrive - DELTA - SŠIE, s.r.o/Programování/replit_120_poctyPodleParity/replit_120_poctyPodleParity/obj/Debug/net5.0/replit_120_poctyPodleParity.pdb
+/Users/vladimirslavicek/OneDrive - DELTA - SŠIE, s.r.o/Programování/replit_120_poctyPodleParity/replit_120_poctyPodleParity/obj/Debug/net5.0/replit_120_poctyPodleParity.genruntimeconfig.cache

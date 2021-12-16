@@ -1,0 +1,15 @@
+/Users/vladimirslavicek/Documents/GitHub/1B_s1_replit/06_For/f110-sečti N čísel/f110-sečti N čísel/bin/Debug/net5.0/f110-sečti N čísel.deps.json
+/Users/vladimirslavicek/Documents/GitHub/1B_s1_replit/06_For/f110-sečti N čísel/f110-sečti N čísel/bin/Debug/net5.0/f110-sečti N čísel.runtimeconfig.json
+/Users/vladimirslavicek/Documents/GitHub/1B_s1_replit/06_For/f110-sečti N čísel/f110-sečti N čísel/bin/Debug/net5.0/f110-sečti N čísel.runtimeconfig.dev.json
+/Users/vladimirslavicek/Documents/GitHub/1B_s1_replit/06_For/f110-sečti N čísel/f110-sečti N čísel/bin/Debug/net5.0/f110-sečti N čísel.dll
+/Users/vladimirslavicek/Documents/GitHub/1B_s1_replit/06_For/f110-sečti N čísel/f110-sečti N čísel/bin/Debug/net5.0/ref/f110-sečti N čísel.dll
+/Users/vladimirslavicek/Documents/GitHub/1B_s1_replit/06_For/f110-sečti N čísel/f110-sečti N čísel/bin/Debug/net5.0/f110-sečti N čísel.pdb
+/Users/vladimirslavicek/Documents/GitHub/1B_s1_replit/06_For/f110-sečti N čísel/f110-sečti N čísel/obj/Debug/net5.0/f110-sečti N čísel.csproj.AssemblyReference.cache
+/Users/vladimirslavicek/Documents/GitHub/1B_s1_replit/06_For/f110-sečti N čísel/f110-sečti N čísel/obj/Debug/net5.0/f110-sečti N čísel.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vladimirslavicek/Documents/GitHub/1B_s1_replit/06_For/f110-sečti N čísel/f110-sečti N čísel/obj/Debug/net5.0/f110-sečti N čísel.AssemblyInfoInputs.cache
+/Users/vladimirslavicek/Documents/GitHub/1B_s1_replit/06_For/f110-sečti N čísel/f110-sečti N čísel/obj/Debug/net5.0/f110-sečti N čísel.AssemblyInfo.cs
+/Users/vladimirslavicek/Documents/GitHub/1B_s1_replit/06_For/f110-sečti N čísel/f110-sečti N čísel/obj/Debug/net5.0/f110-sečti N čísel.csproj.CoreCompileInputs.cache
+/Users/vladimirslavicek/Documents/GitHub/1B_s1_replit/06_For/f110-sečti N čísel/f110-sečti N čísel/obj/Debug/net5.0/f110-sečti N čísel.dll
+/Users/vladimirslavicek/Documents/GitHub/1B_s1_replit/06_For/f110-sečti N čísel/f110-sečti N čísel/obj/Debug/net5.0/ref/f110-sečti N čísel.dll
+/Users/vladimirslavicek/Documents/GitHub/1B_s1_replit/06_For/f110-sečti N čísel/f110-sečti N čísel/obj/Debug/net5.0/f110-sečti N čísel.pdb
+/Users/vladimirslavicek/Documents/GitHub/1B_s1_replit/06_For/f110-sečti N čísel/f110-sečti N čísel/obj/Debug/net5.0/f110-sečti N čísel.genruntimeconfig.cache
